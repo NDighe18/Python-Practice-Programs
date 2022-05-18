@@ -1,0 +1,9 @@
+a=12
+b=5
+c=a/b
+print(c)
+d=a//b
+print(d)
+x=10
+x
+x-=5
